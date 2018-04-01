@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "105364107034",
+    "firebase_url": "https://rahmadinaarifazhari1202154341.firebaseio.com",
+    "project_id": "rahmadinaarifazhari1202154341",
+    "storage_bucket": "rahmadinaarifazhari1202154341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105364107034:android:a7cf271ab1c70354",
+        "android_client_info": {
+          "package_name": "com.example.asus.rahmadinaarifazhari_1202154341_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105364107034-eoa29hq9lmc8stqorff5l9fi9inum375.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.rahmadinaarifazhari_1202154341_modul6",
+            "certificate_hash": "e6286ed719bf9f039acdeba8609a169c93137d05"
+          }
+        },
+        {
+          "client_id": "105364107034-k3voa22j339vu2m492m7n6hv7d7jc97b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCAzJNUgI4N8zqr-iBmlS5OMl4__UetdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105364107034-k3voa22j339vu2m492m7n6hv7d7jc97b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
